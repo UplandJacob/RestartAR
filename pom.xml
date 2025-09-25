@@ -62,10 +62,6 @@
           <url>https://oss.sonatype.org/content/groups/public/</url>
       </repository>
       <repository>
-          <id>bstats-repo</id>
-          <url>https://repo.bstats.org/repository/maven-releases/</url>
-      </repository>
-      <repository>
           <id>jeff-media-public</id>
           <url>https://repo.jeff-media.com/public/</url>
       </repository>
